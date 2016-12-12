@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
